@@ -1,5 +1,5 @@
 # FlashSwapForCofixAndUni
-Use dydx to arbitrage between Coifx and Uni
+Use dydx to arbitrage between Cofix and Uni
 
 ### Contract part
 

@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+lru.c
+setup.cfg
+setup.py
+lru_dict.egg-info/PKG-INFO
+lru_dict.egg-info/SOURCES.txt
+lru_dict.egg-info/dependency_links.txt
+lru_dict.egg-info/top_level.txt
+test/test_lru.py

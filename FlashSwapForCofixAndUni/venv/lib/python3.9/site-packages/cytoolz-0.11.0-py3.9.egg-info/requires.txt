@@ -1,0 +1,4 @@
+toolz>=0.8.0
+
+[cython]
+cython
